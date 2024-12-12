@@ -1,0 +1,11 @@
+:root {
+  scroll-behavior: smooth;
+}
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+  background-color: #FBFBE3;
+}

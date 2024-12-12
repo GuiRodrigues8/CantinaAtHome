@@ -1,0 +1,21 @@
+.sociais {
+    display: flex;
+    height: 10vh;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #6d7966a6;
+    background-size: cover;
+    background-position: center;
+}
+
+.sociais_text{
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: flex-start;
+    align-items: flex-start;*/
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.4rem;
+    color: #02253B;
+}
