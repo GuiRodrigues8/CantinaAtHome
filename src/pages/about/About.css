@@ -52,7 +52,7 @@ padding: 1rem;
   
 @media screen and (max-width: 768px) {
 .about{
-    width: 100%;
+    width: 88%;
     padding: 1.5rem;
 }
 .about_text h1 {

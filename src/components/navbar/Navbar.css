@@ -36,8 +36,6 @@
   }
   
 
-
-
 @media screen and (max-width: 1150px) {
   .app_navbar_list {
     width: 90%;
@@ -47,10 +45,10 @@
 
 @media screen and (max-width: 768px) {
   .app_navbar {
-    width: 100%;
+    width: 88%;
     padding: 1.5rem;
   }
   .app_navbar_list li a{
-    font-size: 1.3rem;
+    font-size: 1.0rem;
   }
-}
+} 
