@@ -41,3 +41,28 @@
     font-size: 1.2rem;
     color: #02253B;
 }
+
+  
+@media screen and (max-width: 1150px) {
+.about {
+    width: 90%;
+padding: 1rem;
+}
+}
+  
+@media screen and (max-width: 768px) {
+.about{
+    width: 100%;
+    padding: 1.5rem;
+}
+.about_text h1 {
+    font-size: 1.5rem
+}
+
+.about_text p {
+    font-size: 1rem;
+}
+.about_img img {
+    scale: 0.5;
+}
+}

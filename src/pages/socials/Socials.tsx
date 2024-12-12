@@ -8,7 +8,7 @@ export default function Demo() {
             <img src = {images.instagram} alt = "instagram" ></img>
             </div>
             <div className="sociais_text">
-                <a> - @cantina_at_home</a>
+                <p> - @cantina_at_home</p>
             </div>    
         </div>
     )

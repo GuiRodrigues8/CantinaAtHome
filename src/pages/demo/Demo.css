@@ -29,3 +29,23 @@
   
 }
 
+
+@media screen and (max-width: 1150px) {
+    .demo {
+        width: 90%;
+        padding: 1.5rem;
+    }
+}
+      
+@media screen and (max-width: 768px) {
+.demo{
+    width: 100%;
+}
+.demo_text p {
+    font-size: 1.3rem;
+}
+.demo_img img {
+    scale: 0.8;
+}
+}
+

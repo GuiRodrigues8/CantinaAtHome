@@ -23,4 +23,23 @@
     justify-content: center;
   }
   
-  
+
+@media screen and (max-width: 1150px) {
+  .app_background {
+      width: 90%;
+  }
+}
+      
+@media screen and (max-width: 768px) {
+  .app_background{
+      width: 100%;
+      padding: 1.5rem;
+  }
+  .app_background h1{
+      font-size: 1.5rem;
+      margin-bottom: 9rem;
+  }
+  .app_background img {
+      scale: 0.5;
+  }
+}

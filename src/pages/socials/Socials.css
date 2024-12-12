@@ -19,3 +19,23 @@
     font-size: 1.4rem;
     color: #02253B;
 }
+
+@media screen and (max-width: 1150px) {
+    .sociais {
+        width: 90%;
+    }
+}
+        
+@media screen and (max-width: 768px) {
+    .sociais{
+        width: 100%;
+        padding: 1.5rem;
+    }
+    .sociais_text p{
+        font-size: 1.4rem;
+    }
+    .sociais_img img {
+        scale: 1;
+    }
+}
+  

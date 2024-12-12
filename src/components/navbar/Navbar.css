@@ -35,3 +35,22 @@
     color: #555; /* Change color on hover */
   }
   
+
+
+
+@media screen and (max-width: 1150px) {
+  .app_navbar_list {
+    width: 90%;
+    padding: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .app_navbar {
+    width: 100%;
+    padding: 1.5rem;
+  }
+  .app_navbar_list li a{
+    font-size: 1.3rem;
+  }
+}
