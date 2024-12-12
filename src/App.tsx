@@ -9,7 +9,7 @@ import Landing from "./pages/landing/Landing";
 
 const router = createBrowserRouter([
   {
-    path: "/CantinaAtHome",
+    path: "/CantinaAtHome/",
     element: Landing(),
   },
 ]);
