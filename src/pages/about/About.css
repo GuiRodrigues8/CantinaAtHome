@@ -45,15 +45,13 @@
   
 @media screen and (max-width: 1150px) {
 .about {
-    width: 90%;
-padding: 1rem;
+    width: 100%;
 }
 }
   
 @media screen and (max-width: 768px) {
 .about{
-    width: 88%;
-    padding: 1.5rem;
+    width: 100%;
 }
 .about_text h1 {
     font-size: 1.5rem

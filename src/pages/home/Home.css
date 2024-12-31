@@ -26,14 +26,13 @@
 
 @media screen and (max-width: 1150px) {
   .app_background {
-      width: 90%;
+      width: 100%;
   }
 }
       
 @media screen and (max-width: 768px) {
   .app_background{
-      width: 88%;
-      padding: 1.5rem;
+      width: 100%;
   }
   .app_background h1{
       font-size: 1.5rem;
