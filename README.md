@@ -1,3 +1,5 @@
+1st time using react + js
+
 This is a WebSite made for the PGI Class of the 3 year of the Banchelor of informatic Engineering of The University of Coimbra
 
 To run:
